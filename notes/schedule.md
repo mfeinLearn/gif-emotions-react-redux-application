@@ -1,14 +1,14 @@
 
 # Step for project week
-1. [] establish models & relationships
-2. [] build out our Rails API back end
-3. [] add serializers // active model serializer
-4. [] wire-framing the front end  
+1. [x] establish models & relationships
+2. [x] build out our Rails API back end
+3. [-] add serializers // active model serializer
+4. [x] wire-framing the front end  
   a) [] including at least an idea of the components we will be using.
   b) [] what our app will look like
   c) [] think about components
 5. [] `create-react-app` - to scaffold our front end
-6. [] add some seed data and double-check our models in a rails console
+6. [x] add some seed data and double-check our models in a rails console
 7. [] add Redux and establish our store
 8. [] add a couple components
 9. [] LET'S NOT GET ALL THE USER INFO! LIKE, NO
