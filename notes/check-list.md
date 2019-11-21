@@ -20,11 +20,11 @@ Containers:
 
 ###############################
 Components:
-1. Home
-2. NavBar
-3. GifForm
-4. GifCard
-5. HumorCard
+1. [] Home
+2. [x] NavBar
+3. [] GifForm
+4. [x] GifCard
+5. [] HumorCard
 ###############################
 
 ###############################
